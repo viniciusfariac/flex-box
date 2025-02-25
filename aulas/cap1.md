@@ -14,3 +14,10 @@ O flexbox é utilizado para layouts unidimensionais, já o grid é feito para la
 | Unidimensional | Bidimensional |
 | Linhas ou colunas | Linhas e colunas |
 | Flexibilidade | Projetos complexos |
+
+## Exercicios do Capítulo
+## Questão Dissertativa
+
+**1- Qual os beneficios do flexbox?**
+
+## Questão de M´ltipla Escolha
