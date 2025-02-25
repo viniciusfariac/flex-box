@@ -1,0 +1,61 @@
+body{
+    display: flex;
+    flex-direction: column;
+    gap: 10rem;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 10vh;
+}
+ul{
+    display: flex;
+    gap: 1rem;
+}
+
+li a{
+    color: #000
+}
+
+li a:hover{
+    transition: 0.7s;
+    opacity: 0.6;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+.container p{
+    width: 400px;
+    font-size: 1rem;
+    text-align: justify;
+}
+#img-exemplo{
+    height: 20rem;
+    width: 20rem;
+    background-color: #000;
+}
+footer{
+    height: 20vh;
+    display: flex;
+    flex-direction: column;
+    background-color: #000;
+    color: #fff;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+footer a{
+    color: #fff;
+}
+footer a:hover{
+    transition: 0.7s;
+    opacity: 0.6;
+}
