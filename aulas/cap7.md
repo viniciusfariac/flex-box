@@ -15,3 +15,8 @@
 | Unidimensional | Bidimensional |
 | Melhor para alinhamento | Melhor para layouts estruturados |
 | Componentes individuais | Estruturas de página |
+
+# **Exercícios do Capítulo**
+
+## **Questão Dissertativa**
+1. Explique as principais diferenças entre Flexbox e Grid e cite um exemplo de quando utilizar cada um.

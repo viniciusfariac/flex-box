@@ -20,3 +20,4 @@
 
 ## **9.4 Considerações finais e próximos passos no estudo de CSS**
 Parabéns por ter chegado até aqui! Nesse momento você já consegue entender como funciona o Flexbox e sua diferença com Grid. Agora seu próximo passo é aprender Grid e Bootstrap.
+
